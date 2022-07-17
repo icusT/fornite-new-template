@@ -320,7 +320,7 @@ function END() {
 
                         $("#CTEXT").addClass("animate__" + TRANSITION1 + "Out");
 
-                        $("#FINAL_IMG").attr("src", "https://d13pxqgp3ixdbh.cloudfront.net/uploads/1607760432ad31b43e2d7288a888438b0668454760.png");
+                        $("#FINAL_IMG").attr("src", "https://d13pxqgp3ixdbh.cloudfront.net/uploads/1622453869a2cb78334e7a0d1326eb2840fbf608c1.png");
 
                         $("#FINAL_VB").text(SELECTED_VB);
 
